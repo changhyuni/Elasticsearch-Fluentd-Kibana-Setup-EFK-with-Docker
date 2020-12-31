@@ -3,5 +3,5 @@
 * 목표
 Nginx에서 원하는거 파싱하기
 
-### Referance
+### Reference
 http://blog.logicwind.com/efk-setup/
